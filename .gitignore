@@ -1,0 +1,7 @@
+# Include your project-specific ignores in this file
+
+# Lisp file
+*.lsp
+
+# Build : prv and fas file
+/compile/
