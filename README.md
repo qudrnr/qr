@@ -1,6 +1,9 @@
 ## AUTOLISP Function List
 
-#### QR Expansion.VLX
+### QR Library.VLX
+
+#### qr-expansion
+
     * qr-Group
     * qr-inters
     * qr-angle
@@ -15,11 +18,13 @@
     * qr-otd
     * qr-dtr
 
-#### QR Network.VLX
+#### qr-Network
+
     * qr-macaddress
     * qr-ping
 
-#### QR Drawing.VLX
+#### qr-drawing
+
     * qr-Modelspace
     * qr-Paperspace
     * qr-Line
