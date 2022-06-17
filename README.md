@@ -17,6 +17,7 @@
     * qr-rto
     * qr-otd
     * qr-dtr
+    * qr-delay
 
 #### qr-Network
 
