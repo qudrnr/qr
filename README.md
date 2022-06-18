@@ -18,6 +18,7 @@
     * qr-otd
     * qr-dtr
     * qr-delay
+    * qr-CreateTextStyle
 
 #### qr-Network
 
