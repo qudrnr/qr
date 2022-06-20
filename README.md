@@ -18,12 +18,13 @@
     * qr-otd
     * qr-dtr
     * qr-delay
-    * qr-CreateTextStyle
+    * qr-createTextStyle
 
-#### qr-Network
+#### qr-system
 
     * qr-macaddress
     * qr-ping
+    * qr-StartupSuite
 
 #### qr-drawing
 
