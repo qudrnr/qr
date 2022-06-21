@@ -19,6 +19,7 @@
     * qr-dtr
     * qr-delay
     * qr-createTextStyle
+    * qr-rand
 
 #### qr-system
 
