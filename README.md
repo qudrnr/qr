@@ -20,6 +20,8 @@
     * qr-delay
     * qr-createTextStyle
     * qr-rand
+    * qr-xSort
+    * qr-ySort
 
 #### qr-system
 
@@ -37,3 +39,4 @@
     * qr-LwPoly
     * qr-DimRotated
     * qr-BringtoFront
+    * qr-hatch
