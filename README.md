@@ -22,6 +22,7 @@
     * qr-rand
     * qr-xSort
     * qr-ySort
+    * qr-intersectwith
 
 #### qr-system
 
