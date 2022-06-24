@@ -23,6 +23,8 @@
     * qr-xSort
     * qr-ySort
     * qr-intersectwith
+    * qr-zptr
+    * qr-boundingbox
 
 #### qr-system
 
