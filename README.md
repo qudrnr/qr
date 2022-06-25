@@ -25,6 +25,9 @@
     * qr-intersectwith
     * qr-zptr
     * qr-boundingbox
+    * qr-xptr
+    * qr-yptr
+    * qr-xyp
 
 #### qr-system
 
