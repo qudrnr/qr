@@ -46,3 +46,4 @@
     * qr-DimRotated
     * qr-BringtoFront
     * qr-hatch
+    * qr-copy
