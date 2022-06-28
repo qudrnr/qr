@@ -34,6 +34,7 @@
     * qr-macaddress
     * qr-ping
     * qr-StartupSuite
+    * qr-cpuid
 
 #### qr-drawing
 
