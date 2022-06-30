@@ -29,6 +29,7 @@
     * qr-yptr
     * qr-xyp
     * qr-strcase
+    * qr-strdivide
 
 #### qr-system
 
