@@ -37,6 +37,7 @@
     * qr-ping
     * qr-StartupSuite
     * qr-cpuid
+    * qr-TrustedLocation
 
 #### qr-drawing
 
