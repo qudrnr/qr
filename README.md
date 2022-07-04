@@ -30,6 +30,7 @@
     * qr-xyp
     * qr-strcase
     * qr-strdivide
+    * qr-map
 
 #### qr-system
 
