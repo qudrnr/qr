@@ -31,6 +31,7 @@
     * qr-strcase
     * qr-strdivide
     * qr-map
+    * qr-nearpoint
 
 #### qr-system
 
