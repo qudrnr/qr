@@ -32,6 +32,7 @@
     * qr-strdivide
     * qr-map
     * qr-nearpoint
+    * qr-farpoint
 
 #### qr-system
 
